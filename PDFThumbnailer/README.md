@@ -6,6 +6,10 @@ Instead of displaying a generic document icon, Gramps can display a thumbnail of
 
 PDF Thumbnailer uses Ghostscript as its preferred PDF renderer, with Poppler available as an optional alternative and automatic fallback.
 
+![Example of a PDF thumbnail in Gramps](images/pdf-thumbnail-example.png)
+
+*Example of a PDF thumbnail generated in Gramps.*
+
 ## Features
 
 - Generates a PNG thumbnail from the first page of a PDF.
