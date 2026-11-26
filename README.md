@@ -6,7 +6,7 @@ This repository provides independently developed addons for Gramps, together wit
 
 | Addon | Description | Supported Gramps versions |
 |---|---|---|
-| [PDF Thumbnailer](PDFThumbnailer/README.md) | Generates thumbnails of PDF media objects using Poppler. | 5.2 and 6.0 |
+| [PDF Thumbnailer](PDFThumbnailer/README.md) | Generates thumbnails of PDF media objects using Ghostscript or Poppler. | 5.2 and 6.0 |
 
 ## Installing addons
 
